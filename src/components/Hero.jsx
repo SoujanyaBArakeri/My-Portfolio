@@ -103,7 +103,7 @@ export default function Hero() {
 
         <div ref={buttonsRef} className="hero-buttons">
           <a
-            href="https://drive.google.com/file/d/1HSPC-ZcAtjxgpcpDuBsmeSH-KskzXmsj/view"
+            href="https://drive.google.com/file/d/1VJl2lw7Us4XTIps2pCeonTxZtN884FGO/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary"
